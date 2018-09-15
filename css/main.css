@@ -563,8 +563,8 @@ main .site-header .logo a {
 	}
 
 	main .site-header .logo a {
-		width: 104px;
-		height: 72px;
+		width: 250px;
+		height: 48px;
 	}
 
 }
@@ -621,8 +621,8 @@ main .site-header .logo a {
 	}
 
 	main .site-header .logo a {
-		width: 95px;
-		height: 66px;
+		width: 250px;
+		height: 48px;
 	}
 
 }
@@ -1369,12 +1369,6 @@ main .site-header .logo a {
 	color: #fbca08;
 }
 
-#mod-map p {
-	
-		font: 16px/30px "montserrat-regular", sans-serif;
-		color: #ffffff;
-}
-
 #mod-map #map-zoom-in,
 #mod-map #map-zoom-out {
 	height: 32px;
@@ -1445,7 +1439,7 @@ footer {
 	font: 12px/24px "montserrat-regular", sans-serif;
 	background: #000;
 	padding: 18px 30px;
-	color: #ffffff;
+	color: #303030;
 	width: 100%;
 	position: fixed;
 	bottom: 0;
